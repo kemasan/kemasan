@@ -1,4 +1,12 @@
-## Hi there 👋
+# kema 🧗‍♂️🐢 :octocat:
+## Data Analyst 🤓🧮🧐
+
+🔭 I’m currently looking for a new opportunities 
+
+📫 How to reach me: 📧 karmen1505@gmail.com, [<img src="path/to/image.png">]([https://link-to-your-URL/](https://iconduck.com/icons/190701/telegram
+https://iconduck.com/vectors/vctrbkpn46zu/media/svg/download)): https://t.me/kema_san 
+
+
 
 <!--
 **kemasan/kemasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
