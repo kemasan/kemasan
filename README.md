@@ -3,7 +3,9 @@
 
 🔭 I’m currently looking for a new opportunities 
 
-📫 How to reach me: 📧 karmen1505@gmail.com, TG ✈️: https://t.me/kema_san 
+📫 How to reach me: 
+  📧 karmen1505@gmail.com
+  TG ✈️: https://t.me/kema_san 
 
 
 
