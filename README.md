@@ -12,8 +12,8 @@ I'm a data enthusiast with a knack for making numbers tell their story. I love d
 
 When I'm not crunching data, you might find me salsa dancing, geeking out over sci-fi, or trying out new recipes. Looking forward to connecting and seeing where data can take us! 
 
-📫 How to reach me: 
-  📧 karmen1505@gmail.com
+📫 How to reach me:    
+  📧 karmen1505@gmail.com   
   TG ✈️: https://t.me/kema_san 
 
 
