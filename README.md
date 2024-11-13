@@ -3,7 +3,7 @@
 
 Hi there! I'm Kema 👋
 
-I'm a data enthusiast with a knack for making numbers tell their story. With a background in operational efficiency and process improvement, I love diving into data to find insights that boost productivity and streamline workflows. I’m skilled in Python, SQL, and data visualization tools like Dune Analytics, Flipside, Tableau.
+I'm a data enthusiast with a knack for making numbers tell their story. I love diving into data to find insights that boost productivity and streamline workflows. I’m skilled in Python, SQL, and data visualization tools like Dune Analytics, Flipside, Tableau.
 
 ✨ My mission: Turn data into actionable insights that drive meaningful change and empower decision-making.
 
