@@ -1,7 +1,17 @@
-# kema 🧗‍♂️🐢 :octocat:
+:octocat: # kema 🧗‍♂️🐢 
 ## Data Analyst 🤓🧮🧐
 
-🔭 I’m currently looking for a new opportunities 
+Hi there! I'm Kema 👋
+
+I'm a data enthusiast with a knack for making numbers tell their story. With a background in operational efficiency and process improvement, I love diving into data to find insights that boost productivity and streamline workflows. I’m skilled in Python, SQL, and data visualization tools like Dune Analytics, Flipside, Tableau.
+
+✨ My mission: Turn data into actionable insights that drive meaningful change and empower decision-making.
+
+🚀 I’m always up for learning the latest tools and tech (and a fun challenge or two)!
+
+🌱 Currently exploring new opportunities where I can contribute to a passionate team and keep growing my analytics skills.
+
+When I'm not crunching data, you might find me salsa dancing, geeking out over sci-fi, or trying out new recipes. Looking forward to connecting and seeing where data can take us! 
 
 📫 How to reach me: 
   📧 karmen1505@gmail.com
