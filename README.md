@@ -1,4 +1,4 @@
-# kema 🧗‍♂️🐢 
+# kema 🧗‍♂️
 ## Data Analyst 🤓🧮🧐
 
 Hi there! I'm Kermen 👋   
